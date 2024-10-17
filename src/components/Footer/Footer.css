@@ -1,0 +1,28 @@
+.footer{
+    text-align: center;
+    margin: auto;
+    max-width: 80%;
+    border-top: 1px solid #989898;
+    padding: 15px 0px;
+    font-size: 13px;
+}
+
+.footer {
+    text-align: center;
+    margin: auto;
+    max-width: 80%;
+    border-top: 1px solid #2c2c2c; /* Changed from #989898 to a darker shade */
+    padding: 15px 0px;
+    font-size: 13px;
+    background-color: #191d28; /* Dark blue background to match Navbar */
+    color: #ffffff; /* White text for better contrast */
+}
+
+.footer a {
+    color: #8dc647; /* Crypto-green color for links */
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
